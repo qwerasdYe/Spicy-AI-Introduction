@@ -1,4 +1,4 @@
-# Spicy-Style-AI-Introduction
+# Spicy-AI-Introduction
 
 
 ## 免费对话驱动创作
